@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c110fb10-fb58-998e-f33a-c32e52f49348
 ---
@@ -37,6 +39,6 @@ The focus of this course is to learn the Peer Review Evaluation Process by creat
 Software Tools
 --------------
 
-We will introduce the students to a number of different solid modeling and design tools. In addition to commercial professional design tools such as SolidWorks® and CorelDRAW®, the students will be introduced to a new design environment where the objects in the design can be parameterized algorithmically. The students will be asked to provide critical feedback on the merits of our tool as compared to other tools that they will use in the course and will be invited to offer enhanced/improved design specifications for our tool based on their design experiences with all the different tools.
+We will introduce the students to a number of different solid modeling and design tools. In addition to commercial professional design tools such as SolidWorks{{< sup "®" >}} and CorelDRAW{{< sup "®" >}}, the students will be introduced to a new design environment where the objects in the design can be parameterized algorithmically. The students will be asked to provide critical feedback on the merits of our tool as compared to other tools that they will use in the course and will be invited to offer enhanced/improved design specifications for our tool based on their design experiences with all the different tools.
 
 In addition, on-line Peer Review Evaluation Process (PREP) tools will be made available so students can evaluate each other's ideas from the comfort of any internet accessible location.
