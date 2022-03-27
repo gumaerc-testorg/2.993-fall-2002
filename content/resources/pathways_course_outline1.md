@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: aa64dc35-9b6b-c2d0-f9a8-c0b3449eeaae
 resourcetype: Document
 title: 'Pathways to Peace: From Heart to Art to Part'
 uid: 40b2beea-7b7e-33d0-329f-f942d2fa3a8b

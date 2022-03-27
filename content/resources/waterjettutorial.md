@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 9821d195-7d48-4a8b-8a16-7bcc7c8c5c98
 resourcetype: Document
 title: Name Plate Design Exercise
 uid: c567ab2f-245b-11f0-7e6e-d19f60808128

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0b38cca1-3ade-50b3-0ee2-a852de047adf
 resourcetype: Document
 title: Pathways To Peace
 uid: aa22df16-0964-b988-bb4d-ea57322ea6e0
