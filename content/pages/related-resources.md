@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides useful links on design and collaborative design
+  for sustainable innovation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
