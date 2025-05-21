@@ -2,7 +2,7 @@
 content_type: resource
 description: "Design exercise intended to familiarize students with the OMAX\xAE layout\
   \ software and the OMAX\xAE Water-jet Machine."
-file: /ol-ocw-studio-app/courses/2-993-designing-paths-to-peace-fall-2002/c567ab2f245b11f07e6ed19f60808128_waterjettutorial.pdf
+file: /courses/2-993-designing-paths-to-peace-fall-2002/c567ab2f245b11f07e6ed19f60808128_waterjettutorial.pdf
 file_size: 839161
 file_type: application/pdf
 learning_resource_types:
